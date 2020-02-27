@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "hello hello hello \r I am fine thank you",
+  "main": "index.js",
+  "scripts": {
+    "start": "lessc ./CSS/1.less ./CSS/1.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnagshaozhi/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wnagshaozhi/test/issues"
+  },
+  "homepage": "https://github.com/wnagshaozhi/test#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1",
+    "less": "^3.11.1"
+  }
+}
